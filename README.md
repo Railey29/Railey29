@@ -49,6 +49,22 @@
 
 ---
 
+### 🏗️ Architecture & Design Patterns
+
+<div align="left">
+
+| Pattern | Platform | Description |
+|---------|----------|-------------|
+| **MVC** — Model View Controller | 🌐 Web Development | Separates the app into 3 layers — **Model** (data & logic), **View** (UI), **Controller** (handles input). Keeps code organized and maintainable. |
+| **MVVM** — Model View ViewModel | 📱 React Native / Mobile | **ViewModel** acts as a bridge between the UI and data. Perfect for reactive mobile apps with two-way data binding. |
+| **Component-Based Architecture** | ⚛️ React / Next.js | UI is broken into small, reusable, independent components. Promotes reusability, scalability, and easier testing. |
+| **REST API Design** | 🌐 Web & Mobile | Stateless client-server communication using HTTP methods — `GET`, `POST`, `PUT`, `DELETE`. Standard for backend-frontend integration. |
+| **Repository Pattern** | 🗄️ Backend | Abstracts the data layer — separates business logic from database access. Makes switching databases easier. |
+
+</div>
+
+---
+
 ### 🛠 Developer Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" style="margin:10px"/>
@@ -112,14 +128,11 @@
 <a href="https://www.instagram.com/rairai_sooo/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="mailto:pachecorailey32@gmail.com">
+<a href="/cdn-cgi/l/email-protection#93e3f2f0fbf6f0fce1f2fafff6eaa0a1d3f4fef2faffbdf0fcfe">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://railey-dev.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="tel:+639910331971">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-ba
