@@ -62,13 +62,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Railey29&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- Main GitHub Stats -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Railey29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=false&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railey29&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- Top Languages -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railey29&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
