@@ -59,17 +59,15 @@
 
 </div>
 
-
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Main GitHub Stats -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Railey29&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
-
-<!-- Top Languages -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railey29&layout=compact&theme=react&hide_border=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Railey29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Railey's GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railey29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -78,9 +76,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Railey29&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=Railey29&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
