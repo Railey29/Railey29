@@ -18,8 +18,11 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,python,java,nodejs,express,flask,postgres,firebase,git,github,vscode"/>
+## 🧰 Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,python,java,nodejs,express,flask,postgres,firebase,git,github,vscode&perline=7" />
+</p>
 </p>
 
 ---
