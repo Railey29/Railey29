@@ -60,15 +60,16 @@
 </div>
 
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <!-- Main GitHub Stats -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Railey29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=false&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Railey29&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"/>
 
 <!-- Top Languages -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railey29&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railey29&layout=compact&theme=react&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
