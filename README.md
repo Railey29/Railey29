@@ -65,9 +65,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Railey29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Railey's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Railey29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=400" alt="Railey's GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railey29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railey29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Railey29&theme=tokyonight)
 
 </div>
 
