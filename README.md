@@ -6,15 +6,15 @@
 
 ---
 
-About Me
+## 🚀 About Me
 
-💻 Full Stack Web Developer Intern
+💻 Full Stack Web Developer Intern  
 🌐 Full Stack Developer  
-🚀freelancing Web & Android Applications  
+🚀 Freelancing Web & Android Applications  
 
 ---
 
-Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
 
@@ -24,7 +24,7 @@ Tech Stack
 
 ---
 
-GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -36,7 +36,7 @@ GitHub Stats
 
 ---
 
-GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -46,7 +46,7 @@ GitHub Streak
 
 ---
 
-Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Railey29/Railey29/output/snake.svg" alt="snake animation"/>
@@ -54,16 +54,10 @@ Contribution Snake
 
 ---
 
-Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/Railey29">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 </p>
-
----
-
-⭐ From [Railey29](https://github.com/Railey29)
