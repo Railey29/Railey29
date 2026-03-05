@@ -59,7 +59,6 @@
 | **MVVM** — Model View ViewModel | 📱 React Native / Mobile | **ViewModel** acts as a bridge between the UI and data. Perfect for reactive mobile apps with two-way data binding. |
 | **Component-Based Architecture** | ⚛️ React / Next.js | UI is broken into small, reusable, independent components. Promotes reusability, scalability, and easier testing. |
 | **REST API Design** | 🌐 Web & Mobile | Stateless client-server communication using HTTP methods — `GET`, `POST`, `PUT`, `DELETE`. Standard for backend-frontend integration. |
-| **Repository Pattern** | 🗄️ Backend | Abstracts the data layer — separates business logic from database access. Makes switching databases easier. |
 
 </div>
 
