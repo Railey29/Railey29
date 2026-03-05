@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Railey29
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋 I'm Railey</h1>
 
-<!---
-Railey29/Railey29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Currently+Freelancing+Web+and+Android+Applications;Full+Stack+Web+Developer+Intern&center=true&width=500&height=50">
+</p>
