@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Railey</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" style="max-width:100%"> I'm Railey</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Currently+Freelancing+Web+and+Android+Applications;Full+Stack+Web+Developer+Intern"/>
@@ -31,7 +31,7 @@
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend & DevOps
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" style="margin:10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" style="margin:10px"/>
@@ -44,8 +44,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" style="margin:10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" style="margin:10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" style="margin:10px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="45" style="margin:10px"/>
 
-<p><b>Java • NodeJS • Express • MongoDB • MySQL • Firebase • Python • Supabase • PostgreSQL • Flask • FastAPI</b></p>
+<p><b>Java • NodeJS • Express • MongoDB • MySQL • Firebase • Python • Supabase • PostgreSQL • Flask • FastAPI • WebSocket</b></p>
 
 ---
 
@@ -59,6 +60,7 @@
 | **MVVM** — Model View ViewModel | 📱 React Native / Mobile | **ViewModel** acts as a bridge between the UI and data. Perfect for reactive mobile apps with two-way data binding. |
 | **Component-Based Architecture** | ⚛️ React / Next.js | UI is broken into small, reusable, independent components. Promotes reusability, scalability, and easier testing. |
 | **REST API Design** | 🌐 Web & Mobile | Stateless client-server communication using HTTP methods — `GET`, `POST`, `PUT`, `DELETE`. Standard for backend-frontend integration. |
+| **WebSocket / Real-Time** | 🔄 Web & Mobile | Full-duplex communication between client and server. Ideal for chat apps, live notifications, and real-time data streaming. |
 
 </div>
 
@@ -127,11 +129,14 @@
 <a href="https://www.instagram.com/rairai_sooo/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="/cdn-cgi/l/email-protection#93e3f2f0fbf6f0fce1f2fafff6eaa0a1d3f4fef2faffbdf0fcfe">
+<a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://railey-dev.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="tel:+639910331971">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-ba
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
