@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" style="max-width:100%"> I'm Railey</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Currently+Freelancing+Web+and+Android+Applications;Full+Stack+Web+Developer+Intern"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Currently+Full+Stack+Developer;Currently+Freelancing+Web+and+Android+Applications;Full+Stack+Web+Developer"/>
 </p>
 
 ---
