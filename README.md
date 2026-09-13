@@ -1,16 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" style="max-width:100%"> I'm Railey</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Currently+Full+Stack+Developer;Currently+Freelancing+Web+and+Android+Applications;Full+Stack+Web+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Integration+%7C+Software+Developer;Building+API+%26+OAuth+System+Integrations;Full+Stack+Web+Developer"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Full Stack Web Developer Intern  
-🌐 Full Stack Developer  
-🚀 Freelancing Web & Android Applications  
+💻 Integration | Software Developer  
+🚀 Currently building API & OAuth-based system integrations at **Alps Technologies** — connecting Freshservice with Action1 (patch management), Slack, ERP, and CRM systems  
+🌐 Full Stack Developer | Freelancing Web & Android Applications  
 
 ---
 
@@ -47,6 +47,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="45" style="margin:10px"/>
 
 <p><b>Java • NodeJS • Express • MongoDB • MySQL • Firebase • Python • Supabase • PostgreSQL • Flask • FastAPI • WebSocket</b></p>
+
+---
+
+### 🔗 Integration & IT Service Management
+
+<img src="https://cdn.simpleicons.org/fresh/ffffff" height="45" style="margin:10px"/>
+<img src="https://cdn.simpleicons.org/fresh/ffffff" height="45" style="margin:10px"/>
+<img src="https://cdn.simpleicons.org/gnometerminal/ffffff" height="45" style="margin:10px"/>
+<img src="https://cdn.simpleicons.org/n8n/ffffff" height="45" style="margin:10px"/>
+<img src="https://cdn.simpleicons.org/swagger/ffffff" height="45" style="margin:10px"/>
+<img src="https://cdn.simpleicons.org/auth0/ffffff" height="45" style="margin:10px"/>
+
+<p><b>Freshservice • Freshdesk • Action1 • n8n • RESTful API • OAuth / Backend Authentication</b></p>
 
 ---
 
